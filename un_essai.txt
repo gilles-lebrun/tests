@@ -1,2 +1,3 @@
 Pas grand chose actuellement (de ma version Ubuntu)
 Maintenant je travail sur la version mac (j'en profite pour ajouter 2 images et supprimer le SVG)
+Bon sur Ubunutu, je supprime du fichier .gitignore la référence à .gitignore (ce n'était pas une bonne idée)
